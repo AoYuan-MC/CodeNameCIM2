@@ -11,7 +11,8 @@ global.debugUserName = [
 	"UnknownEntity_UE",
 	"117458866249",
 	"KEYboardManDesu",
-	"oooooooo_zane"
+	"oooooooo_zane",
+	"AoYuan_MC"
 ]
 // 挖掘等级
 global.miningLevel = {
